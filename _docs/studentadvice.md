@@ -27,11 +27,13 @@ Here are our top tips for prefrosh to prepare for CS at Yale! We know it can be 
     For exceptionally prepared students, it is possible to skip CPSC 201 and start in CPSC 223, Data Structures. Students should know the C programming language, and should contact the CPSC 223 instructor for more information on this. Skipping a required course is generally discouraged by the department and will require an elective to be substituted for the course. 
 
 **3.** What’s in a CS Major? As mentioned above, you’ll have the five required courses, and then space for electives. The CS department offers both a BA degree and a BS degree.
-|                          | Bachelors of Science | Bachelors of Arts    |
+
+|  Info                    | Bachelors of Science | Bachelors of Arts    |
 |--------------------------|----------------------|----------------------|
 | Required Classes         | 12 (5 + 6 electives) | 10 (5 + 4 electives) |
 | Senior Project / Thesis? | Yes - CPSC 490       | Yes - CPSC 490       |
 | Electives?               | Any course # 203+    | Any course # 203+    |
+
 ### When Should I Take These Classes? 
 We suggest the following, which might look similar to the chart on the YCPS but we recommend you take CPSC 202 slightly earlier, as CPSC 323 is a very high workload course you’ll want to focus on.
 
