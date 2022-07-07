@@ -6,10 +6,17 @@
 - title: Academics
   docs:
   - advice
+  - international
 
 - title: Clubs
   docs:
-  - tbd
+  - clubs
+
+- title: Zoo
+  docs:
+  - zoo
+  - free
+  - resources
 
 - title: Development Resources
   docs:
