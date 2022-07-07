@@ -1,10 +1,17 @@
 - title: Getting Started
   docs:
   - home
-  - themes
-  - customization
+  - free
 
-- title: Examples
+- title: Academics
+  docs:
+  - advice
+
+- title: Clubs
+  docs:
+  - tbd
+
+- title: Development Resources
   docs:
   - cheatsheet
   - font-awesome
