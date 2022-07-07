@@ -21,8 +21,7 @@ A: Yes... and no. The F-1 visa itself doesn't have work authorization,
 but you can apply for OPT (Optional Practical Training) or CPT
 (Curricular Practical Training). Resources for this tend to go out
 around early spring, but if you're worried make sure to reach out to
-OISS or [[read the info on their
-website]{.ul}](https://oiss.yale.edu/employment-taxes/employment-for-international-students/employment-for-f-1-students).
+OISS or [read the info on their website](https://oiss.yale.edu/employment-taxes/employment-for-international-students/employment-for-f-1-students).
 
 The gist of this is that you will be able to complete internships all 3
 summers if you so choose, provided that you file the forms correctly.
@@ -46,5 +45,3 @@ the recruiter reaches out.
 
 P.S. The question "are you legally allowed to work in the US" can be
 answered with a simple 'Yes'.
-
-Q:

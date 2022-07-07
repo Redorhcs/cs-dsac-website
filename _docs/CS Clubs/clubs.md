@@ -12,7 +12,7 @@ that address them. Additionally, we also want to change the way that
 techies think of the public sphere, so we'll be holding talks,
 workshops, and other events aimed at doing this.
 
--   Website: [[yalecode4good.org]{.ul}](http://yalecode4good.org/)
+-   Website: [yalecode4good.org](http://yalecode4good.org/)
 
 -   Email: code4good at yale dot edu
 
@@ -24,7 +24,7 @@ online lessons, unplugged activities and class wide demonstrations. Code
 Haven also runs events related to computer science education to promote
 its mission outside the classroom.
 
--   Website: [[codehavenyale.com]{.ul}](http://codehavenyale.com/)
+-   Website: [codehavenyale.com](http://codehavenyale.com/)
 
 ### Yale WGiCS: Women and Gender Minorities in Computer Science
 
@@ -35,7 +35,7 @@ development opportunities with corporate partners. Another aspect of our
 organization is our technical workshops which aim to introduce members
 of the CS community to interesting new technologies and projects.
 
--   Website: [[yalewics.com]{.ul}](http://yalewics.com/)
+-   Website: [yalewics.com](http://yalewics.com/)
 
 -   Email: floatyale at gmail dot com
 
@@ -47,7 +47,7 @@ mental health care through technology. Hosting a mental health hackathon
 February 22-24, 2019.
 
 -   Website:
-    > [[hackmentalhealth.care/about-yale/]{.ul}](https://www.hackmentalhealth.care/about-yale/)
+    > [hackmentalhealth.care/about-yale/](https://www.hackmentalhealth.care/about-yale/)
 
 -   Email: anthony dot xu at yale dot edu
 
@@ -60,7 +60,7 @@ and creating a collaborative learning environment for new programmers
 with Yale CS majors serving as mentors and TAs.
 
 -   Website:
-    > [[shecodeatyale.wordpress.com]{.ul}](https://shecodeatyale.wordpress.com/)
+    > [shecodeatyale.wordpress.com](https://shecodeatyale.wordpress.com/)
 
 ### Yale Computer Society
 
@@ -76,7 +76,7 @@ disrupt healthcare. Helix Innovation Fellows will form dream teams with
 the doctors and launch ventures through meetings, user research and lots
 of coding/engineering.
 
--   Website: [[yalehelix.org]{.ul}](https://www.yalehelix.org/)
+-   Website: [yalehelix.org](https://www.yalehelix.org/)
 
 ### Yale Entrepreneurial Society
 
@@ -110,6 +110,6 @@ engineering a welcoming place for all. Every year, we attend the
 National SWE conference which is the world's largest conference for
 women in engineering.
 
--   Website: [[yaleswe.com]{.ul}](http://yaleswe.com/)
+-   Website: [yaleswe.com](http://yaleswe.com/)
 
 -   iEmail: sweyale at gmail dot com
