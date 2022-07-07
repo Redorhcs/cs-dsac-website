@@ -24,7 +24,7 @@ academic guide that you'd like to contribute to our webpage!
 A cheat sheet written by former 223 ULAs about [using SFTP with Sublime Text](https://docs.google.com/document/d/173NNZNYXMC0bJuE2wzYOwsRK-OK3hcromkDOgpowt-I/edit)
 
 ### Office Hours
-See [office hours]({% link officehours %}) for more.
+See [office hours](/docs/officehours) for more.
 
 ### From your College
 tbd
