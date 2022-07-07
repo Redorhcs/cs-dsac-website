@@ -6,7 +6,7 @@ description: >
   Keeping the Yale CS Community in the Know
 lang: en-US
 
-baseurl: "/demo-2" # the subpath of your site, e.g. /blog/
+baseurl: "/pages/rts49/demo-2/" # the subpath of your site, e.g. /blog/
 url: https://git.yale.edu/pages/rts49/demo-2/ # the base hostname & protocol for your site
 git_address: https://git.yale.edu/rts49/demo-2
 git_edit_address: https://git.yale.edu/rts49/demo-2/blob/gh-pages
