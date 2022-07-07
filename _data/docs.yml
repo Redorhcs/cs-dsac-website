@@ -6,17 +6,24 @@
 - title: Academics
   docs:
   - advice
+  - support
+  - office-hours
   - international
+
+- title: Professional Resources
+  docs:
+  - ocs
+  - conferences
 
 - title: Clubs
   docs:
   - clubs
+  - hackathon
 
 - title: Zoo
   docs:
   - zoo
   - free
-  - resources
 
 - title: Development Resources
   docs:
