@@ -1,5 +1,5 @@
 ---
-title: OCS and You (Reusmes, Career Fairs)
+title: OCS and You
 permalink: /docs/ocs/
 ---
 ### Office of Career Strategy
@@ -38,8 +38,7 @@ entities alike.
 ### SEAS resume book
 
 The School of Engineering and Applied Sciences compiles
-[an](http://www.yaleseas.com/resumebook/) [online book of
-resumes](http://www.yaleseas.com/resumebook/) from across Yale
+[an](http://www.yaleseas.com/resumebook/) [online book ofresumes](http://www.yaleseas.com/resumebook/) from across Yale
 University\--there are resumes from undergraduate and graduate students
 alike, and students can use it to get ideas for how to format their own
 resumes as well as get in touch with other students who have had work
