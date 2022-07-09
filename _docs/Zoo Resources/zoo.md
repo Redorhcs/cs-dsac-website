@@ -2,30 +2,34 @@
 title: Zoo FAQ
 permalink: /docs/zoo/
 ---
+
+Welcome to the Zoo! Please check out the table of contents on the left for more detailed information.
+
+
 Sourced from [here](https://docs.google.com/document/d/1ig2NhM0SeCNOTSlReQWArJz7AbHr77Rer4CQAzSfEGs/edit) by the 223 ULA Team
-**[Table Of Contents]{.ul}**
+**[Table Of Contents]**
 
 1.  **Zoo Information**
 
-    a.  [**[Logging in]{.ul}**](#8cg6smypu9gt)
+    a.  [**[Logging in]**](#8cg6smypu9gt)
 
-    b.  [**[Transferring files]{.ul}**](#nr7tbzewv69u)
+    b.  [**[Transferring files]**](#nr7tbzewv69u)
 
-    c.  [**[Automatically transferring files]{.ul}**](#9hqvvg5knhj5)
+    c.  [**[Automatically transferring files]**](#9hqvvg5knhj5)
 
-2.  [**[Unix Basics]{.ul}**](#2gj0e844jka)
+2.  [**[Unix Basics]**](#2gj0e844jka)
 
-3.  [**[Homework Commands]{.ul}**](#rvzm5whyk7o0)
+3.  [**[Homework Commands]**](#rvzm5whyk7o0)
 
-4.  [**[The Queue]{.ul}**](#vkkr3y3uv5g6)
+4.  [**[The Queue]**](#vkkr3y3uv5g6)
 
-**[Getting onto the Zoo]{.ul}**
+**[Getting onto the Zoo]**
 
 Type "ssh \<netid>\@node.zoo.cs.yale.edu", and enter your netID password
 when prompted. Your password won't show up and the cursor won't move,
 but it knows what you're typing.
 
-**[Getting Files onto the Zoo]{.ul}**
+**[Getting Files onto the Zoo]**
 
 Use the "scp" command to transfer files onto the Zoo. Type "scp
 filename1 filename2
@@ -37,14 +41,14 @@ the directory mysubdirectory (which is located inside mydirectory in
 your home directory on the Zoo). You will be prompted to enter your
 netID password, just like when you ssh in.
 
-**[Automatically Getting Files onto the Zoo]{.ul}**
+**[Automatically Getting Files onto the Zoo]**
 
 If repeatedly scp'ing and ssh'ing gets boring, [[look into using Sublime
-SFTP]{.ul}](https://docs.google.com/a/yale.edu/document/d/1MLiljDRKx8JcFyHccvTlpng0H3wb4aATxeJq9lDSXoE/edit?usp=sharing)
+SFTP]](https://docs.google.com/a/yale.edu/document/d/1MLiljDRKx8JcFyHccvTlpng0H3wb4aATxeJq9lDSXoE/edit?usp=sharing)
 or another File Transfer Protocol program to edit files directly on the
 Zoo in your favorite text editor.
 
-**[Unix Basics]{.ul}**
+**[Unix Basics]**
 
 *What is a directory?* A directory is simply a folder, which can contain
 any mixture of files and subdirectories.
@@ -67,7 +71,7 @@ you try viewing an executable with a text editor, it will look like
 nonsense! Executables are created by compiling your source files (for
 example, distance.c).
 
-[Essential Commands]{.ul}
+[Essential Commands]
 
 **pwd** - print working directory. This command will tell you the exact
 file path of your current location, and requires no further arguments
@@ -301,15 +305,15 @@ output of the lefthand side argument, into the standard input of the
 righthand side argument. For example, you can use this with the distance
 calculator example: "echo 52.1 0.0 42.5 -72.9 \| ./Distance"
 
-[Other Sources of Unix Information]{.ul}
+[Other Sources of Unix Information]
 
 This is far, far from everything Unix can do, and there are likely lots
 of other commands you might find that can save you some time as you
 navigate the Zoo. For Professor Slade's more extensive introduction to
 Unix, click
-[**[here]{.ul}**](https://zoo.cs.yale.edu/classes/cs201/UNIX.html). For
+[**[here]**](https://zoo.cs.yale.edu/classes/cs201/UNIX.html). For
 a short list of Unix commands which may be helpful, click
-[**[here]{.ul}**](http://zoo.cs.yale.edu/classes/cs223/doc/Unix).
+[**[here]**](http://zoo.cs.yale.edu/classes/cs223/doc/Unix).
 Finally, if you ever have questions about what an option for a
 particular command does (for example, if you see "ls -a" and aren't sure
 what the "-a" option accomplishes), try the built-in manual page! To
@@ -317,7 +321,7 @@ access this page for a particular command, use the man command, followed
 by the name of the Unix command: for example, you could type "man ls"
 and scroll through. Try it!
 
-**[Homework Testing]{.ul}**
+**[Homework Testing]**
 
 1.  You must be on the Zoo, and *in the same folder* as your completed
     > homework files and executable. The test script will test the
@@ -337,7 +341,7 @@ and scroll through. Try it!
         > use the command "make" or "make \<program>" where \<program>
         > is the name of your .c file without the ".c" part. To
         > understand how makefiles work, you can read
-        > [[this]{.ul}](http://zoo.cs.yale.edu/classes/cs223/doc/Makefile)
+        > [[this]](http://zoo.cs.yale.edu/classes/cs223/doc/Makefile)
         > or the assigned reading from the Linux Programming book.
 
     c.  If you updated your .c file, you have to run the "make" command
@@ -348,7 +352,7 @@ and scroll through. Try it!
     > "/c/cs223/Hwk\<#>/Tests/test.\<Name>" If your code fails a test,
     > the output of the test script will include the result of running
     > diff on the expected output and your program's output. See
-    > [[StackOverflow]{.ul}](https://unix.stackexchange.com/questions/81998/understanding-of-diff-output)
+    > [[StackOverflow]](https://unix.stackexchange.com/questions/81998/understanding-of-diff-output)
     > for an explanation of diff output, or examine the input and output
     > files as described below.
 
@@ -373,7 +377,7 @@ and scroll through. Try it!
     b.  Remember that you can use the "ls /c/cs223/Hwk1/Tests/" command
         > to see all the files related to testing
 
-**[Homework Submission]{.ul}**
+**[Homework Submission]**
 
 1.  To submit your homework, you need to be on the Zoo, and in the same
     > folder as your completed homework files
@@ -388,7 +392,7 @@ and scroll through. Try it!
 
 > /c/cs223/bin/submit 1 Makefile Total.c time.log
 
-**[The Queue]{.ul}**
+**[The Queue]**
 
 1.  To join the queue at office hours, you need to be on the Zoo.
 

@@ -3,6 +3,20 @@
   - home
   - charter
 
+  - title: Zoo Help
+  docs:
+  - zoo
+  - access
+  - help
+  - etiquette
+  - communications
+  - printing
+  - web
+  - setup
+  - remote
+  - faq
+  - free
+
 - title: Academics
   docs:
   - advice
@@ -20,11 +34,6 @@
   docs:
   - clubs
   - hackathon
-
-- title: Zoo
-  docs:
-  - zoo
-  - free
 
 - title: Development Resources
   docs:
