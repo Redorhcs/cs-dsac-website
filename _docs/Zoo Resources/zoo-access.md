@@ -1,6 +1,6 @@
 ---
 title: Access
-permalink: /docs/zoo-access
+permalink: /docs/zoo-access/
 ---
 Last Updated: 4 Nov 2022
 

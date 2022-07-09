@@ -1,6 +1,6 @@
 ---
 title: Printing
-permalink: /docs/zoo-printing
+permalink: /docs/zoo-printing/
 ---
 Last Updated: 5 Aug 2003 by 32462
 

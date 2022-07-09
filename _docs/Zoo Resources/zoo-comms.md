@@ -1,6 +1,6 @@
 ---
 title: Communications
-permalink: /docs/zoo-communications
+permalink: /docs/zoo-communications/
 ---
 Last Updated: 31 July 2003 by 594
 

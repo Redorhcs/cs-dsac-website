@@ -1,6 +1,6 @@
 ---
 title: Web Publishing
-permalink: /docs/zoo-web
+permalink: /docs/zoo-web/
 ---
 Last Updated: 2022-07-08 by RTS49
 

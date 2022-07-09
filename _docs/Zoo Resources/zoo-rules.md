@@ -1,6 +1,6 @@
 ---
 title: Rules and Etiquette
-permalink: /docs/zoo-etiquette
+permalink: /docs/zoo-etiquette/
 ---
 Last Updated: 3 Sept 2002 by 537
 
