@@ -1,6 +1,6 @@
 ---
 title: Remote Access
-permalink: /docs/zoo/remote
+permalink: /docs/zoo-remote
 ---
 Last Updated: 4 Aug 2003
 ## Zoo Remote Access

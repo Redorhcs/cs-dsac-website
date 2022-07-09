@@ -1,5 +1,5 @@
 ---
 title: FAQ
-permalink: /docs/zoo/faq
+permalink: /docs/zoo-faq
 ---
 No content

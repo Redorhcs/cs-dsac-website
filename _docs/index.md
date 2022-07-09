@@ -2,6 +2,7 @@
 title: Welcome
 permalink: /docs/home/
 redirect_from: /docs/index.html
+last_updated: July 8, 2022
 ---
 
 ## Welcome to the DSAC Hub!

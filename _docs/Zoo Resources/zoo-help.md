@@ -1,6 +1,6 @@
 ---
 title: Help & Where To Find It
-permalink: /docs/zoo/help
+permalink: /docs/zoo-help
 ---
 Last Update: 2022-07-08 RTS49, previous 3 Nov 2002
 
