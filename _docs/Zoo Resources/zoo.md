@@ -1,6 +1,7 @@
 ---
 title: Zoo FAQ
 permalink: /docs/zoo/
+last_updated: November 8, 2022
 ---
 
 Welcome to the Zoo! Please check out the table of contents on the left for more detailed information.

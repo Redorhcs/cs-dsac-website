@@ -6,15 +6,15 @@
 - title: Zoo Help
   docs:
   - zoo
-  - access
-  - help
-  - etiquette
-  - communications
-  - printing
-  - web
-  - setup
-  - remote
-  - faq
+  - zoo/access
+  - zoo/help
+  - zoo/etiquette
+  - zoo/communications
+  - zoo/printing
+  - zoo/web
+  - zoo/setup
+  - zoo/remote
+  - zoo/faq
   - free
 
 - title: Academics
