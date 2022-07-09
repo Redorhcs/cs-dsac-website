@@ -1,5 +1,7 @@
 # Jekyll Doc Theme
 
+edited by rts49
+
 Go to [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.
 
 ## Running locally
