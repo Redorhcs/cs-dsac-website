@@ -6,10 +6,10 @@ description: >
   Keeping the Yale CS Community in the Know
 lang: en-US
 
-baseurl: "/pages/rts49/cs-dsac-website/" # the subpath of your site, e.g. /blog/
-url: https://git.yale.edu/pages/rts49/cs-dsac-website/ # the base hostname & protocol for your site
-git_address: https://git.yale.edu/rts49/cs-dsac-website
-git_edit_address: https://git.yale.edu/rts49/cs-dsac-website/blob/gh-pages
+baseurl: "/dsac/" # the subpath of your site, e.g. /blog/
+url: https://zoo.cs.yale.edu/dsac/ # the base hostname & protocol for your site
+git_address: https://github.com/Redorhcs/cs-dsac-website
+git_edit_address: https://github.com/Redorhcs/cs-dsac-website/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
@@ -32,7 +32,7 @@ exclude:
   - .gitignore
   - README.md
   - vendor
-timezone: Europe/Berlin
+timezone: America/New_York
 defaults:
 - scope:
     path: _posts
