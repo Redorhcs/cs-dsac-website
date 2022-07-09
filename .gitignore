@@ -4,3 +4,4 @@ _site
 *.gem
 .bundle
 vendor/bundle
+_config.yml # this is a bad idea but only way to make the split-brain approach work
