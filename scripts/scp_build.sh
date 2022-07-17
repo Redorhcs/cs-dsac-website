@@ -6,7 +6,7 @@ sh fix_yale_file.sh
 echo "config file rebuilt"
 cd ..
 echo "building"
-bundle exec jekyll serve
+jekyll build
 echo "hostname check"
 hostname >> hst.txt
 if grep -Fxq "yale" hst.txt
