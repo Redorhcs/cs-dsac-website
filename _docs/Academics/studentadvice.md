@@ -21,10 +21,12 @@ Here are our top tips for prefrosh to prepare for CS at Yale! We know it can be 
     
 ### CS 201
     Have some CS experience or took AP/IB Computer Science in high school? You’d be a good fit for CPCS 201, Introduction to Computer Science. CPSC 201 is the first required course in the CS Sequence and focuses on computer science fundamentals from a theoretical point of view. You’ll be using the Racket language, a recursive programming language (no loops!) derived from Lisp. It will probably be extremely different from any CS class you’ve taken before, and is heavily focused on problem-solving skills
+    
+    
 ### Afterwards
-    After CPSC 201, you’ll progress to CPSC 223 (Data Structures), CPSC 323 (Systems), and then CPSC 365 (Algorithms) or CPSC 366 (Intensive Algorithms). Most electives in the department ‘unlock’ after completing CPSC 223.
+  After CPSC 201, you’ll progress to CPSC 223 (Data Structures), CPSC 323 (Systems), and then CPSC 365 (Algorithms) or CPSC 366 (Intensive Algorithms). Most electives in the department ‘unlock’ after completing CPSC 223.
 
-    For exceptionally prepared students, it is possible to skip CPSC 201 and start in CPSC 223, Data Structures. Students should know the C programming language, and should contact the CPSC 223 instructor for more information on this. Skipping a required course is generally discouraged by the department and will require an elective to be substituted for the course. 
+  For exceptionally prepared students, it is possible to skip CPSC 201 and start in CPSC 223, Data Structures. Students should know the C programming language, and should contact the CPSC 223 instructor for more information on this. Skipping a required course is generally discouraged by the department and will require an elective to be substituted for the course. 
 
 **3.** What’s in a CS Major? As mentioned above, you’ll have the five required courses, and then space for electives. The CS department offers both a BA degree and a BS degree.
 
