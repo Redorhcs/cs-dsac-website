@@ -16,8 +16,8 @@ CS Majors have one required math course to take during their degree path: a sect
 - Meets twice per week
 
 Past Syllabi:
-- (Spring 2022)[https://yale.instructure.com/courses/73845/assignments/syllabus]
-- (Fall 2021)[https://yale.instructure.com/courses/68159/assignments/syllabus]
+- [Spring 2022](https://yale.instructure.com/courses/73845/assignments/syllabus)
+- [Fall 2021](https://yale.instructure.com/courses/68159/assignments/syllabus)
 
 ### MATH 244
 "Mile Wide, Mile Deep"
@@ -29,6 +29,6 @@ Past Syllabi:
 - Meets three times per week
 
 Past Syllabi:
-- (Fall 2022)[https://yale.instructure.com/courses/79581/assignments/syllabus]
-- (Spring 2022)[https://yale.instructure.com/courses/75122/assignments/syllabus]
+- [Fall 2022](https://yale.instructure.com/courses/79581/assignments/syllabus)
+- [Spring 2022](https://yale.instructure.com/courses/75122/assignments/syllabus)
 
