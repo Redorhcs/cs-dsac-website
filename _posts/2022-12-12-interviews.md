@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mock Engineering Interviews from OCS"
-date:   2022-12-12 10:44:00 PM
+date:   2022-12-12 10:44
 author: Tyler S.
 ---
 
