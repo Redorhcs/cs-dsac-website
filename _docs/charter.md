@@ -23,7 +23,7 @@ To act as a forum for the discussion of issues of general interest to users of d
 
 A committee's tenure will last exactly one academic year.
 
-A committee will consist of 5 undergraduates who satisfy the DSAC membership requirements as stated below. They will be chosen via the electoral process outlined below.
+A committee will consist of 6 undergraduates who satisfy the DSAC membership requirements as stated below. They will be chosen via the electoral process outlined below.
 
 There will be no hierarchical organization of the committee. It will be a democratic body.
 
