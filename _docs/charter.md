@@ -36,8 +36,8 @@ Elections will be open to all students who meet the membership requirements and 
 
 
 - The names of the candidates will then be made public, and they will be invited to make their campaign statements over a period of one week.
-- Voting will take place over a one-week period during which each voter will be allowed to cast a ballot naming five candidates of his or her choice.
-- The five candidates with the highest vote counts will be the new DSAC. Any ties will be broken by a run-off election.
+- Voting will take place over a one-week period during which each voter will be allowed to cast a ballot naming six candidates of his or her choice.
+- The six candidates with the highest vote counts will be the new DSAC. Any ties will be broken by a run-off election.
 - If a candidate wishes to challenge the results, they must email dsac[at]yale[dot]edu within 48 hours of the result announcement.
 
 Soon after the elections, a meeting will be held for all departing and incoming members of DSAC, during which the new members will be initiated to the workings of the committee.
