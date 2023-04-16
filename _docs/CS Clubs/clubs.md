@@ -64,10 +64,17 @@ with Yale CS majors serving as mentors and TAs.
 
 ### Yale Computer Society
 
-The Yale Computer Society works on several projects throughout the year
-to improve the experience of students interested in technology and
-entrepreneurship at Yale. Typically we host talks, student or industry
-run workshops, and also hold career related events.
+The Yale Computer Society organizes initiatives that promote Computer Science and Engineering to the Yale community. These initiatives include seven practical development projects for students to gain real-world software engineering experience, speaker events with technologists and industry professionals, study breaks for students interested in STEM, and workshops taught by Yale students and guests.
+
+-   Website: [yalecompsociety.org](http://yalecompsociety.org)
+
+-   Released Project Links:
+    *  [CourseTable](https://www.coursetable.com/)
+    *  [Yalies](https://yalies.io)
+    *  [MealMatch](https://www.mealmatch.app/)
+
+-   Email: yalecomputersociety at gmail dot com  or kelvin dot yip at yale dot edu
+
 
 ### Yale Helix Group
 
