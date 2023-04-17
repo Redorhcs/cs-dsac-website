@@ -15,6 +15,6 @@ then
 	cp -r _site/* /home/httpd/html/zoo/dsac
 else
 	echo "remote build detected, scp'ing"
-	scp -r _site/* rts49@viper.zoo.cs.yale.edu:/home/httpd/html/zoo/dsac
+	scp -r _site/* rts49@node.zoo.cs.yale.edu:/home/httpd/html/zoo/dsac
 fi
 echo "done"

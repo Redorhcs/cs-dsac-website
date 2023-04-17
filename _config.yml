@@ -6,8 +6,8 @@ description: >
   Keeping the Yale CS Community in the Know
 lang: en-US
 
-baseurl: "/cs-dsac-website/" # the subpath of your site, e.g. /blog/
-url: https://redorhcs.github.io/cs-dsac-website/ # the base hostname & protocol for your site
+baseurl: "/dsac/" # the subpath of your site, e.g. /blog/
+url: https://zoo.cs.yale.edu/dsac/ # the base hostname & protocol for your site
 git_address: https://github.com/Redorhcs/cs-dsac-website
 git_edit_address: https://github.com/Redorhcs/cs-dsac-website/blob/gh-pages
 
@@ -32,7 +32,6 @@ exclude:
   - .gitignore
   - README.md
   - vendor
-  - scripts
 timezone: America/New_York
 defaults:
 - scope:
