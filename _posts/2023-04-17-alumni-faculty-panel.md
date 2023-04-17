@@ -7,20 +7,7 @@ The event will be hybrid with the in person faculty presentation from 7:00 - 7:4
 The panel will focus on course selection for research, industry, and general advice on navigating the future and how it relates to your courses at Yale. 
 
 The faculty panelists and their specialties:
-| Panelist | Field | 
-| - | - | 
-|Dylan McKay | 	Theory |
-|Jay Lim | 	Systems | 
-|Alex Wong | 	AI/ML | 
-|Daniel Rakita | 	HRI/Robotics | 
-|Scott Peterson | 	CPAR | 
-|Tim Barron | 	Security | 
+![Dylan McKay, Theory - Jay Lim, Systems - Alex Wong, AI/ML - Daniel Rakita, HRI/Robotics - Scott Peterson,	CPAR, - Tim Barron, Security](assets/img/2023-04-17%2013_12_40-cs-dsac-website_2023-04-17-alumni-faculty-panel.md%20at%20gh-pages%20·%20Redorhcs_cs-dsa.png)
 
 Alumni panelists and background: 
-| Panelist | Year | Affiliation | 
-| - | - | - |
-| Kelly Rudder	| YC 22'	| McKinsey | 
-| Sally Ma	| YC 21'| 	DeepMind | 
-| Peter Xu	| YC 14' | 	Coursetable -> McKinsey -> Stripe -> Founder (Wanderlog) | 
-| Bradford Galiette | 	YC 08' SOM 11'	 | McKinsey -> Google (Product Manager) -> Investor/New Venture | 
-| Brad Rosen	| YC 04' (BS/MS)	| Harvard Law -> Berkshire Hathaway| 
+![Kelly Rudder, Sally Ma, Peter Xu, Bradford Galiette, Brad Rosen](assets/img/2023-04-17%2013_13_07-cs-dsac-website_2023-04-17-alumni-faculty-panel.md%20at%20gh-pages%20·%20Redorhcs_cs-dsa.png)
